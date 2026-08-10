@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+    int a;
+    printf("insert the value of a");
+    scanf("%c,&a);
+    
+     }
