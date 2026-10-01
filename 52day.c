@@ -4,8 +4,6 @@
  In case of multiple occurrences of ceil of x, return the index of the first occurrence.*/
 
 #include <stdio.h>
-
-
 int findCeilIndex(int arr[], int n, int x) {
     int low = 0, high = n - 1;
     int result = -1; 
